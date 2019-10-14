@@ -1,0 +1,9 @@
+C:\dati clienti\Gsm Applicativi\C-Sharp-Update-Loader-master\bin\Debug\grafLoader.exe.config
+C:\dati clienti\Gsm Applicativi\C-Sharp-Update-Loader-master\bin\Debug\grafLoader.exe
+C:\dati clienti\Gsm Applicativi\C-Sharp-Update-Loader-master\bin\Debug\grafLoader.pdb
+C:\dati clienti\Gsm Applicativi\C-Sharp-Update-Loader-master\obj\Debug\grafLoader.csprojAssemblyReference.cache
+C:\dati clienti\Gsm Applicativi\C-Sharp-Update-Loader-master\obj\Debug\grafLoader.Form1.resources
+C:\dati clienti\Gsm Applicativi\C-Sharp-Update-Loader-master\obj\Debug\grafLoader.Properties.Resources.resources
+C:\dati clienti\Gsm Applicativi\C-Sharp-Update-Loader-master\obj\Debug\grafLoader.csproj.GenerateResource.cache
+C:\dati clienti\Gsm Applicativi\C-Sharp-Update-Loader-master\obj\Debug\grafLoader.exe
+C:\dati clienti\Gsm Applicativi\C-Sharp-Update-Loader-master\obj\Debug\grafLoader.pdb
